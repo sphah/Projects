@@ -1,0 +1,7 @@
+c:\users\lindoviper\documents\visual studio 2015\Projects\HotelMiamiBooking\HotelMiamiBooking\bin\Debug\HotelMiamiBooking.exe.config
+c:\users\lindoviper\documents\visual studio 2015\Projects\HotelMiamiBooking\HotelMiamiBooking\bin\Debug\Input.txt
+c:\users\lindoviper\documents\visual studio 2015\Projects\HotelMiamiBooking\HotelMiamiBooking\bin\Debug\HotelMiamiBooking.exe
+c:\users\lindoviper\documents\visual studio 2015\Projects\HotelMiamiBooking\HotelMiamiBooking\bin\Debug\HotelMiamiBooking.pdb
+c:\users\lindoviper\documents\visual studio 2015\Projects\HotelMiamiBooking\HotelMiamiBooking\obj\Debug\HotelMiamiBooking.csprojResolveAssemblyReference.cache
+c:\users\lindoviper\documents\visual studio 2015\Projects\HotelMiamiBooking\HotelMiamiBooking\obj\Debug\HotelMiamiBooking.exe
+c:\users\lindoviper\documents\visual studio 2015\Projects\HotelMiamiBooking\HotelMiamiBooking\obj\Debug\HotelMiamiBooking.pdb
