@@ -3,3 +3,9 @@ c:\users\lindoviper\documents\visual studio 2015\Projects\Fibonacci\Fibonacci\bi
 c:\users\lindoviper\documents\visual studio 2015\Projects\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
 c:\users\lindoviper\documents\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
 c:\users\lindoviper\documents\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
+C:\Users\lindoviper\Documents\src\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\lindoviper\Documents\src\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\lindoviper\Documents\src\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
+C:\Users\lindoviper\Documents\src\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\lindoviper\Documents\src\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\lindoviper\Documents\src\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache

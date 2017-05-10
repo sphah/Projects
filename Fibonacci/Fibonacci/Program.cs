@@ -4,18 +4,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Fibonacci
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-            Fibonacci_Sequence(5);
             
-        }
+            try
+            {
+                Console.Write("Please enter nth number in numeric: ");
+                var nthNumber =Convert.ToInt32(Console.ReadLine());
+                Fibonacci_Sequence(nthNumber);
+            }
+            catch (Exception )
+            {
+               Console.WriteLine("Please enter a valid numeric number"); 
+                
+            }
+          }
 
-        public static void Fibonacci_Sequence(int last_Number)
+        public static void Fibonacci_Sequence(int nth_Number)
         {
 
             int firstNumber = 1;
@@ -23,7 +33,7 @@ namespace Fibonacci
 
             int count = 0;
             Console.Write(firstNumber + ", " + secondNumber);
-            while(count < last_Number-2)
+            while(count < nth_Number-2)
             {
                 var nm = firstNumber + secondNumber;
                 firstNumber = secondNumber;
